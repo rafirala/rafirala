@@ -5,7 +5,7 @@ Electrical engineer with an MBA in Data Science, moving into AI engineering. In 
 Today I apply AI and data wherever there's a real problem to solve, from the simple to the truly complex.
 
 ### Working on
-- **J.A.R.B.A.S.** — multi-agent coordinator for prospecting and follow-ups. Scripts do the repetitive work, LLM agents make the judgment calls, a human approves what goes out. *(case study soon)*
+- **TARS** — multi-agent coordinator for prospecting and follow-ups. Scripts do the repetitive work, LLM agents make the judgment calls, a human approves what goes out. *(case study soon)*
 - **[Geomarketing in Curitiba](https://github.com/rafirala/mapa-incorporacao-curitiba)** — real-estate listings crossed with the city's zoning plan to spot development opportunities on an interactive map.
 
 ### Toolbox
@@ -27,7 +27,7 @@ Engenheiro eletricista com MBA em Ciência de Dados, migrando para engenharia de
 
 Hoje aplico IA e dados onde houver um problema real para resolver, dos simples aos bem complexos.
 
-**Em andamento:** o J.A.R.B.A.S., coordenador multiagente para prospecção e acompanhamento (estudo de caso em breve), e o [mapa de oportunidades imobiliárias em Curitiba](https://github.com/rafirala/mapa-incorporacao-curitiba), que cruza anúncios com o zoneamento da cidade.
+**Em andamento:** o TARS, coordenador multiagente para prospecção e acompanhamento (estudo de caso em breve), e o [mapa de oportunidades imobiliárias em Curitiba](https://github.com/rafirala/mapa-incorporacao-curitiba), que cruza anúncios com o zoneamento da cidade.
 
 🎓 MBA em Ciência de Dados e Big Data (PUC Minas) · Cientista de Dados (Harve, em andamento) · Engenharia Elétrica e Geografia (UFPR)
 
