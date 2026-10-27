@@ -1,38 +1,33 @@
-# Hi, I'm Rafael Irala 👋
+# Hi, I'm Rafael Irala
 
-Electrical engineer with an MBA in Data Science, moving into AI engineering. In a 15+ year career I've led technical teams, projects and contracts in mission-critical environments, and after five years studying the financial market I also worked in it as an investment advisor.
+Electrical engineer moving into data science and AI engineering. I spent a decade keeping mission-critical systems running (air traffic control radars, telecom and their power and cooling), leading maintenance teams and contracts. Now I build data pipelines and AI tools that turn that kind of operational data into decisions.
 
-Today I apply AI and data wherever there's a real problem to solve, from the simple to the truly complex.
-
-### Working on
-- **TARS** — multi-agent coordinator for prospecting and follow-ups. Scripts do the repetitive work, LLM agents make the judgment calls, a human approves what goes out. *(case study soon)*
-- **[Geomarketing in Curitiba](https://github.com/rafirala/mapa-incorporacao-curitiba)** — real-estate listings crossed with the city's zoning plan to spot development opportunities on an interactive map.
+### Featured
+- **[Caixa real-estate auction radar](https://github.com/rafirala/radar-leiloes-caixa)**: a pipeline that downloads the official property list every morning, geocodes ~3,300 properties, scores each one with an explained rule and publishes an interactive map by itself at 06:05. It refuses to publish when the data looks wrong (total drops by more than 30%). Python, OpenStreetMap, Leaflet, GitHub Pages.
+- **[Geomarketing in Curitiba](https://github.com/rafirala/mapa-incorporacao-curitiba)**: real-estate listings crossed with the city's zoning plan to spot development opportunities on an interactive map. GeoPandas, Folium.
+- **TARS**: a multi-agent coordinator for small-business operations. Scripts do the repetitive work, LLM agents make the judgment calls, a human approves what goes out. *(case study soon)*
 
 ### Toolbox
-Python · Pandas · SQL · ETL with APIs · scikit-learn · Power BI · GeoPandas · Folium · LLM agents (Claude)
+Python · pandas · SQL · ETL and REST APIs · scikit-learn (regression, classification, Random Forest, XGBoost, k-means) · Keras/TensorFlow · RAG and embeddings (FAISS, Chroma) · Power BI (DAX) · GeoPandas · LLM agents (Claude, OpenAI)
 
 ### Background
-🎓 MBA in Data Science & Big Data (PUC Minas) · Data Scientist program (Harve, ongoing) · B.Sc. Electrical Engineering and B.Sc. Geography (UFPR)
+MBA in Data Science & Big Data (PUC Minas) · Data Science program (Harve) · B.Sc. Electrical Engineering, electronics and telecom (UFPR)
 
-💼 Team leadership · contract management · KPI-driven decisions · investment advisory (ANBIMA CEA / C-Pro I, B3 PQO)
+Maintenance planning (preventive, corrective, predictive) for 200+ critical assets across 28 sites · energy efficiency monitoring · contract management
 
-**Open to** AI engineering and data roles, in Brazil or abroad · [LinkedIn](https://www.linkedin.com/in/rafael-irala/)
+**Open to** data science and AI engineering roles, in Brazil or remote · [LinkedIn](https://www.linkedin.com/in/rafael-irala/)
 
 ---
 
 <details>
-<summary>🇧🇷 Em português</summary>
+<summary>Em português</summary>
 
-Engenheiro eletricista com MBA em Ciência de Dados, migrando para engenharia de IA. Em mais de 15 anos de carreira, liderei equipes técnicas, projetos e contratos em ambientes de missão crítica e, depois de cinco anos estudando o mercado financeiro, também atuei nele como assessor de investimentos.
+Engenheiro eletricista migrando para ciência de dados e engenharia de IA. Passei uma década mantendo sistemas que não podem parar (radares e telecomunicações do controle de tráfego aéreo, com a energia e a climatização deles), chefiando equipes de manutenção e contratos. Hoje construo pipelines de dados e ferramentas de IA que transformam esse tipo de dado operacional em decisão.
 
-Hoje aplico IA e dados onde houver um problema real para resolver, dos simples aos bem complexos.
+**Destaques:** o [radar de leilões da Caixa](https://github.com/rafirala/radar-leiloes-caixa), que baixa a lista oficial todo dia, dá nota explicada a cerca de 3.300 imóveis e publica o mapa sozinho às 06:05; o [mapa de oportunidades imobiliárias em Curitiba](https://github.com/rafirala/mapa-incorporacao-curitiba), que cruza anúncios com o zoneamento; e o TARS, coordenador multiagente para pequenos negócios (estudo de caso em breve).
 
-**Em andamento:** o TARS, coordenador multiagente para prospecção e acompanhamento (estudo de caso em breve), e o [mapa de oportunidades imobiliárias em Curitiba](https://github.com/rafirala/mapa-incorporacao-curitiba), que cruza anúncios com o zoneamento da cidade.
+MBA em Ciência de Dados e Big Data (PUC Minas) · Ciência de Dados (Harve) · Engenharia Elétrica (UFPR)
 
-🎓 MBA em Ciência de Dados e Big Data (PUC Minas) · Cientista de Dados (Harve, em andamento) · Engenharia Elétrica e Geografia (UFPR)
-
-💼 Liderança de equipes · gestão de contratos · decisão por indicadores · assessoria de investimentos (CEA / C-Pro I ANBIMA, PQO B3)
-
-**Aberto a** vagas de engenharia de IA e dados, no Brasil ou no exterior.
+**Aberto a** vagas de ciência de dados e engenharia de IA, no Brasil ou remotas.
 
 </details>
